@@ -1,0 +1,105 @@
+
+body{
+    margin: 0px;
+}
+/*HALAMAN INDEX*/
+nav{
+    background-color: palevioletred;
+    overflow: hidden;
+}
+nav a{
+    text-decoration: none;
+    color: #fff;
+    padding: 20px;
+    float: right;
+}
+nav a:hover {
+    text-decoration: none;
+    background-color: aqua;
+    color: black;
+    padding: 20px;
+    float: right;
+}
+img{
+    float: left;
+ 
+}
+/*HALAMAN INDEX*/
+
+/*HALAMAN INDEX*/
+.warp {
+    padding: 50px 500px 50px 500px;
+}
+
+.bg-login {
+    background-color: paleturquoise;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+input[type=text], input[type=password]{
+    width: 100%;
+    padding: 20px;
+    margin: 20px 0px 20px 0px;
+    display: inline-block;
+    border: 1px solid #ccc; 
+    box-sizing: border-box;
+    border-radius: 100px;
+}
+
+input[type=button]{
+    background-color: #4d70b6;
+    color: #ffffff;
+    width: 100%;
+    padding: 20px;
+    margin: 20px 0px 10px 0px;
+    display: inline-block;
+    border: 5px solid #ffffff;
+    box-sizing: border-box;
+    border-radius: 100px;
+}
+input[type=button]:hover{
+    background-color: #ffffff;
+    color: #4d70b6;
+    width: 100%;
+    padding: 20px;
+    margin: 20px 0px 10px 0px;
+    display: inline-block;
+    border: 5px solid #ffffff;
+    box-sizing: border-box;
+    border-radius: 100px;
+}
+input[type=button]:hover{
+    background-color: #ffffff;
+    color: #4d70b6;
+    width: 100%;
+    padding: 20px;
+    margin: 20px 0px 10px 0px;
+    display: inline-block;
+    border: 5px solid #4d70b6;
+    box-sizing: border-box;
+    border-radius: 100px;
+}
+from a{
+    background-color: #b64d4d;
+    color: #ffffff;
+    width: 100%;
+    padding: 20px;
+    display: inline-block;
+    border: 5px solid #ffffff;
+    box-sizing: border-box;
+    border-radius: 100px;
+    text-decoration: none;
+}
+form a:hover{
+    background-color: #ffffff;
+    color: #b64d4d;
+    width: 100%;
+    padding: 20px;
+    display: inline-block;
+    border: 5px solid #b64d4d;
+    box-sizing: border-box;
+    border-radius: 100px;
+    text-decoration: none;
+}
+/*HALAMAN INDEX*/
